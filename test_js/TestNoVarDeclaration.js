@@ -11,7 +11,7 @@ var test = function() {
     let b = 2;
 
     if(true){
-       // let b = 3;
+        let b = 3;
         console.log(b);
     }
     console.log(b);
